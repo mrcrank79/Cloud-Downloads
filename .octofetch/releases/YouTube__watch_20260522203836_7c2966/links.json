@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7859",
+  "folder": "YouTube__watch_20260522203836_7c2966",
+  "base_name": "Mariah_Carey_-_Without_You_-_Electric_Guitar_by_Kfir_Ochaion_-_Tone_Ci_AZOtbE9CaJI_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mrcrank79/Cloud-Downloads/releases/tag/co-releases-v1-7859",
+  "files": [
+    {
+      "name": "Mariah_Carey_-_Without_You_-_Electric_Guitar_by_Kfir_Ochaion_-_Tone_Ci_AZOtbE9CaJI_720p.mp4",
+      "url": "https://github.com/mrcrank79/Cloud-Downloads/releases/download/co-releases-v1-7859/Mariah_Carey_-_Without_You_-_Electric_Guitar_by_Kfir_Ochaion_-_Tone_Ci_AZOtbE9CaJI_720p.mp4",
+      "api_url": "https://api.github.com/repos/mrcrank79/Cloud-Downloads/releases/assets/427368636",
+      "id": 427368636,
+      "size": 24570237,
+      "download_count": 0
+    }
+  ]
+}
