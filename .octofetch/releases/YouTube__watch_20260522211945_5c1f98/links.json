@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9787",
+  "folder": "YouTube__watch_20260522211945_5c1f98",
+  "base_name": "Mhrv_l__ui263iybhk_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mrcrank79/Cloud-Downloads/releases/tag/co-releases-v1-9787",
+  "files": [
+    {
+      "name": "Mhrv_l__ui263iybhk_720p.mp4",
+      "url": "https://github.com/mrcrank79/Cloud-Downloads/releases/download/co-releases-v1-9787/Mhrv_l__ui263iybhk_720p.mp4",
+      "api_url": "https://api.github.com/repos/mrcrank79/Cloud-Downloads/releases/assets/427391000",
+      "id": 427391000,
+      "size": 18194346,
+      "download_count": 0
+    }
+  ]
+}
