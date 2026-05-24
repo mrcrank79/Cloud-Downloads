@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3740",
+  "folder": "Other__download_20260524052729_83b733",
+  "base_name": "Other__download_20260524052729_83b733.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mrcrank79/Cloud-Downloads/releases/tag/co-releases-v1-3740",
+  "files": [
+    {
+      "name": "Other__download_20260524052729_83b733.mp4",
+      "url": "https://github.com/mrcrank79/Cloud-Downloads/releases/download/co-releases-v1-3740/Other__download_20260524052729_83b733.mp4",
+      "api_url": "https://api.github.com/repos/mrcrank79/Cloud-Downloads/releases/assets/428358849",
+      "id": 428358849,
+      "size": 204406191,
+      "download_count": 0
+    }
+  ]
+}
