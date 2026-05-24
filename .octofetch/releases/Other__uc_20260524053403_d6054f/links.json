@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9954",
+  "folder": "Other__uc_20260524053403_d6054f",
+  "base_name": "Other__uc_20260524053403_d6054f.bin",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mrcrank79/Cloud-Downloads/releases/tag/co-releases-v1-9954",
+  "files": [
+    {
+      "name": "Other__uc_20260524053403_d6054f.bin",
+      "url": "https://github.com/mrcrank79/Cloud-Downloads/releases/download/co-releases-v1-9954/Other__uc_20260524053403_d6054f.bin",
+      "api_url": "https://api.github.com/repos/mrcrank79/Cloud-Downloads/releases/assets/428361643",
+      "id": 428361643,
+      "size": 2466,
+      "download_count": 0
+    }
+  ]
+}
