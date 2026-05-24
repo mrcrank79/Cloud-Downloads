@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8341",
+  "folder": "Other__uc_20260524050356_d2f119",
+  "base_name": "Other__uc_20260524050356_d2f119.bin",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mrcrank79/Cloud-Downloads/releases/tag/co-releases-v1-8341",
+  "files": [
+    {
+      "name": "Other__uc_20260524050356_d2f119.bin",
+      "url": "https://github.com/mrcrank79/Cloud-Downloads/releases/download/co-releases-v1-8341/Other__uc_20260524050356_d2f119.bin",
+      "api_url": "https://api.github.com/repos/mrcrank79/Cloud-Downloads/releases/assets/428347977",
+      "id": 428347977,
+      "size": 2460,
+      "download_count": 0
+    }
+  ]
+}
